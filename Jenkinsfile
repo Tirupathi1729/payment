@@ -1,4 +1,4 @@
 @Library('roboshop') _
 env.codeType = "python"
-env.component = "payment"
+env.component="payment"
 cipipeline()
